@@ -4,7 +4,7 @@
 const EngineAddon = require("ember-engines/lib/engine-addon");
 
 module.exports = EngineAddon.extend({
-  name: "ember-caluma-form-builder",
+  name: require("./package").name,
   lazyLoading: false,
 
   included() {

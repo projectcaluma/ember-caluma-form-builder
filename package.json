@@ -17,9 +17,9 @@
     "build": "ember build",
     "lint:js": "eslint .",
     "start": "ember serve",
-    "start-proxy": "ember serve --proxy http://localhost:8000",
     "test": "ember test",
-    "test:all": "ember try:each"
+    "test:all": "ember try:each",
+    "start-proxy": "ember serve --proxy http://localhost:8000"
   },
   "dependencies": {
     "ember-apollo-client": "1.0.5",
@@ -43,9 +43,10 @@
     "uuid": "3.3.2"
   },
   "devDependencies": {
+    "@ember/optional-features": "0.6.3",
     "broccoli-asset-rev": "3.0.0",
     "broccoli-funnel": "2.0.1",
-    "ember-cli": "3.3.0",
+    "ember-cli": "3.4.2",
     "ember-cli-addon-docs": "0.5.3",
     "ember-cli-addon-docs-yuidoc": "0.2.1",
     "ember-cli-code-coverage": "1.0.0-beta.5",
@@ -59,7 +60,6 @@
     "ember-cli-inject-live-reload": "1.8.2",
     "ember-cli-mirage": "0.4.9",
     "ember-cli-qunit": "4.3.2",
-    "ember-cli-shims": "1.2.0",
     "ember-cli-sri": "2.1.1",
     "ember-cli-uglify": "2.1.0",
     "ember-disable-prototype-extensions": "1.1.3",
