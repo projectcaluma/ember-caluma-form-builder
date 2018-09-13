@@ -1,0 +1,1 @@
+{"jsonapi":{"version":"1.0"},"data":{"type":"project","id":"ember-caluma-form-builder","attributes":{"name":"ember-caluma-form-builder","version":"0.0.0","navigationIndex":{}},"relationships":{"modules":{"data":[]}}}}
