@@ -5906,10 +5906,10 @@ ember-uikit@0.7.1:
     ember-toggle "^5.3.0"
     uikit "^3.0.0-beta.38"
 
-ember-validated-form@2.0.0-alpha.2:
-  version "2.0.0-alpha.2"
-  resolved "https://registry.yarnpkg.com/ember-validated-form/-/ember-validated-form-2.0.0-alpha.2.tgz#574fb985c0863d153adbfb9baef8530c37427476"
-  integrity sha512-8mHvOcPgn+n00ZLV+/CJvOmtnyPCx7FNYtEjIF6As73AG3BP+VYAgsENVCkKRZ6+jrEt68/wsPnfEkDnnNOFzw==
+ember-validated-form@2.0.0-alpha.3:
+  version "2.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/ember-validated-form/-/ember-validated-form-2.0.0-alpha.3.tgz#c59ae2900ef2c09641c141718710f2208a4eaa25"
+  integrity sha512-loS7sruCaW4BIrBWaQv/Ld/T6DRX+72No2NH5lg7ACrxBFbbTFvSO7E/ordr6eAbHcxs9pL/bx3FuQrZi3RxRQ==
   dependencies:
     ember-auto-import "^1.2.13"
     ember-cli-babel "^7.1.0"
