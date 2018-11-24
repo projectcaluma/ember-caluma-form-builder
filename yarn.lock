@@ -4594,10 +4594,10 @@ ember-cli-addon-docs-yuidoc@0.2.1:
     lodash "^4.17.5"
     yuidocjs "^0.10.2"
 
-ember-cli-addon-docs@0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/ember-cli-addon-docs/-/ember-cli-addon-docs-0.6.0.tgz#a1d9afd686b06e86d2dab324520aa7e298d19c68"
-  integrity sha512-jg7coPjxV8+drHIpQURBGDbulebG1h3paEwWXLmITthxx9psOMRCUwgh2D/UA3NAZXEltuZSeIJiLdwAwJJ7GA==
+ember-cli-addon-docs@0.6.1:
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/ember-cli-addon-docs/-/ember-cli-addon-docs-0.6.1.tgz#940e7ba6318cb60b9c6e783eb93ba52ee25d59ce"
+  integrity sha512-qaeLJM06RFaVFFQZUZOkQ9ezOMCMf27tu5gvphLjrQgLux4E0BfJsbSB+0hrx2YIbzaTirTtzXxVIJayakVNKQ==
   dependencies:
     "@glimmer/syntax" "^0.36.4"
     broccoli-bridge "^1.0.0"
@@ -4612,7 +4612,7 @@ ember-cli-addon-docs@0.6.0:
     broccoli-stew "^2.0.0"
     ember-cli-autoprefixer "^0.8.1"
     ember-cli-babel "^6.16.0"
-    ember-cli-clipboard "^0.9.0"
+    ember-cli-clipboard "^0.10.0"
     ember-cli-htmlbars "^3.0.0"
     ember-cli-htmlbars-inline-precompile "^1.0.3"
     ember-cli-sass "7.1.7"
@@ -4714,6 +4714,17 @@ ember-cli-broccoli-sane-watcher@^2.1.1:
     rsvp "^3.0.18"
     sane "^2.4.1"
 
+ember-cli-clipboard@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/ember-cli-clipboard/-/ember-cli-clipboard-0.10.0.tgz#7d194a68faa38a0d6fdf75a81249d0265e0aa56e"
+  integrity sha512-IPaBd6ChPu+DdYWDW7/+eR9vUZEJkLiY9R+JZnDheaiNZKD7vXeO1I9t5TT09U30Tjxo2QNyM0TXitlPvgZP5Q==
+  dependencies:
+    broccoli-funnel "^1.1.0"
+    clipboard "^2.0.0"
+    ember-cli-babel "^6.8.0"
+    ember-cli-htmlbars "^2.0.2"
+    fastboot-transform "0.1.1"
+
 ember-cli-clipboard@^0.8.1:
   version "0.8.1"
   resolved "https://registry.yarnpkg.com/ember-cli-clipboard/-/ember-cli-clipboard-0.8.1.tgz#59f8eb6ba471a7668dff592fcebb7b06014240dd"
@@ -4721,17 +4732,6 @@ ember-cli-clipboard@^0.8.1:
   dependencies:
     broccoli-funnel "^1.1.0"
     clipboard "^1.7.1"
-    ember-cli-babel "^6.8.0"
-    ember-cli-htmlbars "^2.0.2"
-    fastboot-transform "0.1.1"
-
-ember-cli-clipboard@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/ember-cli-clipboard/-/ember-cli-clipboard-0.9.0.tgz#c0cfce1a8a81ba1646e54bff9d41249b8bc507f7"
-  integrity sha1-wM/OGoqBuhZG5Uv/nUEkm4vFB/c=
-  dependencies:
-    broccoli-funnel "^1.1.0"
-    clipboard "^2.0.0"
     ember-cli-babel "^6.8.0"
     ember-cli-htmlbars "^2.0.2"
     fastboot-transform "0.1.1"
