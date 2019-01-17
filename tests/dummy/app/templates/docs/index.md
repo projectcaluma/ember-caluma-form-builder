@@ -1,7 +1,7 @@
 # Installation
 
 ```bash
-ember install ember-caluma-form-builder
+ember install ember-engines ember-caluma-form-builder
 ```
 
 # Usage
