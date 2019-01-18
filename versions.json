@@ -10,5 +10,11 @@
     "name": "Latest",
     "sha": "a99d2a7069b350d96b3fb297c20e07104f759bd3",
     "tag": null
+  },
+  "fix-tests": {
+    "path": "versions/fix-tests",
+    "name": "fix-tests",
+    "sha": "89b306412e93c1fff8b718df2c486dc50641b242",
+    "tag": null
   }
 }
