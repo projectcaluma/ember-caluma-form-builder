@@ -5555,10 +5555,10 @@ ember-fetch-adapter@^0.4.3:
   dependencies:
     ember-cli-babel "^6.12.0"
 
-ember-fetch@6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/ember-fetch/-/ember-fetch-6.0.0.tgz#a88c6f2436413e4e397651e1ed60e07f0e7c9d17"
-  integrity sha512-sqCBc5k/gFkUoC4nEl4IkgT6aLRBg7UQWcUDBqpfZy+rkPKxwzZROjJtCPlwCZg5PmZysV5TptaWNcs8r0g75Q==
+ember-fetch@6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/ember-fetch/-/ember-fetch-6.1.0.tgz#cf0f4469cefdfab11b42899e61318d489a5e51f4"
+  integrity sha512-UYOHboZpH5sPBgj9/nASZAqII7qadj/e8EgkGtXAJnF4pOWcxJVCFPYTyyvYPUTWnC6Yte+nkEywbvo6QBK6og==
   dependencies:
     abortcontroller-polyfill "^1.1.9"
     babel-core "^6.26.3"
@@ -6228,10 +6228,10 @@ eslint-config-prettier@3.5.0:
   dependencies:
     get-stdin "^6.0.0"
 
-eslint-plugin-ember@6.1.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-ember/-/eslint-plugin-ember-6.1.0.tgz#dc48e342daca632b628766df08b634d5a5a970e6"
-  integrity sha512-eBOuSoMpBB8Mitn2U3D0LYkqU9IhOaL/Au2PkCx4Zw7lLTb12hEEQPfOxK0KAVyClgGNnfcTW5lxVy02wwvdgw==
+eslint-plugin-ember@6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-ember/-/eslint-plugin-ember-6.2.0.tgz#658c24be2435da337b597c924a16aa31d69a1a40"
+  integrity sha512-WKNmTBxvQRr+f1RZ7S+env9BxH18a8uLyqli6Gg6oh5/gl5NChHKe5iGdwv0bC6yUlkocFJkQYheIC25L3npKw==
   dependencies:
     ember-rfc176-data "^0.3.5"
     snake-case "^2.1.0"
@@ -12744,7 +12744,7 @@ topo@2.x.x:
   dependencies:
     hoek "4.x.x"
 
-tough-cookie@>=0.12.0, tough-cookie@>=2.3.3, tough-cookie@^2.3.4, tough-cookie@~2.4.3:
+tough-cookie@>=0.12.0, tough-cookie@>=2.3.3, tough-cookie@^2.3.4, tough-cookie@~2.4.0, tough-cookie@~2.4.3:
   version "2.4.3"
   resolved "https://registry.yarnpkg.com/tough-cookie/-/tough-cookie-2.4.3.tgz#53f36da3f47783b0925afa06ff9f3b165280f781"
   integrity sha512-Q5srk/4vDM54WJsJio3XNn6K2sCG+CQ8G5Wz6bZhRZoAe/+TxjWB/GlFAnYEbkYVlON9FMk/fE3h2RLpPXo4lQ==
