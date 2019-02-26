@@ -1,4 +1,8 @@
-# ember-caluma
+# ⚠ Deprecation warning
+
+This addon is deprecated, since it has been integrated in [ember-caluma](https://github.com/projectcaluma/ember-caluma).
+
+# ember-caluma-form-builder
 
 [![Build Status](https://travis-ci.com/projectcaluma/ember-caluma.svg?branch=master)](https://travis-ci.com/projectcaluma/ember-caluma)
 [![Codecov](https://codecov.io/gh/projectcaluma/ember-caluma/branch/master/graph/badge.svg)](https://codecov.io/gh/projectcaluma/ember-caluma)
